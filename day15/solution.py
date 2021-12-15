@@ -40,7 +40,7 @@ def part1(input_data):
     def find_path(x, y):
         if (x, y) in path:
             return path[(x, y)]
-        if x < 0 or x >= len(input_data) or y < 0 or y >= len(input_data[x]):
+        if x >= len(input_data) or y >= len(input_data[x]):
             return 1e9
         if x == len(input_data) - 1 and y == len(input_data[x]) - 1:
             return input_data[x][y]
