@@ -3,8 +3,8 @@
 <https://adventofcode.com/2021>
 
 ![](https://img.shields.io/badge/day%20📅-18-blue)
-![](https://img.shields.io/badge/stars%20⭐-34-yellow)
-![](https://img.shields.io/badge/days%20completed-17-red)
+![](https://img.shields.io/badge/stars%20⭐-36-yellow)
+![](https://img.shields.io/badge/days%20completed-18-red)
 
 <!--- advent_readme_stars table --->
 ## 2021 Results
