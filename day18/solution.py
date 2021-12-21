@@ -66,8 +66,14 @@ def magnitude(s):
     return (3 * magnitude(s[0])) + (2 * magnitude(s[1]))
 
 
+# ========= Part I =========
+
+
 def part1(snails):
     return magnitude(reduce(sum_snails, snails[1:], snails[0]))
+
+
+# ========= Part II =========
 
 
 def part2(snails):
